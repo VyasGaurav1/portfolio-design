@@ -9330,7 +9330,7 @@ figcaption {
       box-shadow: var(--shadow-1);
       border-radius: 6px; }
     .slide .thumbnail .inner {
-      text-align: center; }
+      text-align: end; }
       .slide .thumbnail .inner img {
         border: 0;
         vertical-align: middle;
